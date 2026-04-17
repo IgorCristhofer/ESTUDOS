@@ -1,3 +1,3 @@
 # ESTUDOS
-pasta para estudos de CSS <> HTML <> JavaScript
+pasta para estudos de <strong>CSS</strong> | <strong>HTML</strong> | <strong>JavaScript</strong>
 
